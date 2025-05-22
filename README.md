@@ -58,3 +58,30 @@ The **Proxian Order** is a dual-stack governance and ownership framework for the
 ### License
 
 MIT (TBD)
+---
+
+## 📦 Ecosystem Availability
+
+The **Proxian Protocol Stack** — including domains, acronyms, and supporting documentation — is available for:
+
+- **Acquisition**: Full ownership transfer of the protocol identity  
+- **Licensing**: Exclusive or non-exclusive branding/utility rights  
+- **Strategic Partnerships**: Integration into ecosystems or venture-backed rollouts  
+
+**Primary Domains**:  
+- `ProxianOrder.com` — Master protocol gateway  
+- `VOIDsProtocol.com` — Dynamic asset layer  
+- `SOULsLicense.com` — Identity + credentialing layer  
+
+**Second-Layer Assets**:  
+- `OwnVOIDs.com`  
+- `SOULsProtocol.com`  
+- `GRAILsProtocol.com`  
+- `OwnRELICs.com`  
+
+**Inquiries**:  
+→ Email: [outreach@polssani.com](mailto:outreach@polssani.com)  
+→ Twitter DM: [@ProxianOrder](https://twitter.com/ProxianOrder)  
+
+> This is your chance to acquire a branded, acronym-native ecosystem —  
+> the next `NFT.com`, `DAOstack.org`, or `DeFiPulse.com`, before mass adoption hits.
