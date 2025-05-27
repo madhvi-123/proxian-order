@@ -59,7 +59,9 @@ The **Proxian Order** is a dual-stack governance and ownership framework for the
 
 MIT (TBD)
 ---
+## 🧩 Protocol Modules
 
+- [PROXYsol — Delegated Execution Framework](https://github.com/madhvi-123/proxian-order/blob/main/contracts/Proxy.sol)
 ## 📦 Ecosystem Availability
 
 The **Proxian Protocol Stack** — including domains, acronyms, and supporting documentation — is available for:
